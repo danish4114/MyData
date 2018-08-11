@@ -1,0 +1,39 @@
+.list{
+  border:1px solid #BDC3C7;
+  padding: 5px 0;
+  border-radius:5px;
+  padding-bottom: 5px;
+  padding-right: 5px;
+}
+label{
+  margin-left:5px;
+}
+.container{
+  margin-bottom: 0;
+}
+.badge{
+  float: right;
+  margin-right: 5px;
+  margin-top:5px;
+  font-size: 10px;
+}
+input[type=checkbox]{
+  margin-top:6px;
+}
+.forEdit{
+  margin-top:2px;
+}
+.btn{
+  margin-top: 10px;
+}
+input.forEdit{
+  border:none;
+}
+.btn-success{
+  margin-left: 10px;
+}
+.btn-danger{
+  float: right;
+  border-radius:30px;
+  outline:none;
+}
